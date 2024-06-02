@@ -98,13 +98,21 @@ HAVING COUNT(*) > 2 ;
 -- 2.15 Very Important - Select the name and last name of employees working for departments with second lowest budget.
 -- 2.15 非常重要 - 選擇在預算第二低的部門工作的員工的姓名。
 
+SELECT e.name , e.LastName 
+FROM Employees e 
+WHERE e.Department = (
+		SELECT d.Code 
+        FROM Departments d
+		ORDER BY d.budget 
+		LIMIT 1 OFFSET 1 ) ;
+
 SELECT e.Name, e.LastName
 FROM Employees e 
 WHERE e.Department = (
        SELECT sub.Code 
        FROM (SELECT * FROM Departments d ORDER BY d.budget LIMIT 2) sub 
        ORDER BY budget DESC LIMIT 1);
-       
+
 -- 2.16 Add a new department called "Quality Assurance", with a budget of $40,000 and departmental code 11. 
 -- And Add an employee called "Mary Moore" in that department, with SSN 847-21-9811.
 -- 2.16 新增一個名為「品質保證」的新部門，預算為 40,000 美元，部門代碼為 11. 在該部門新增一名名為「Mary Moore」的員工，SSN 為 847-21-9811。

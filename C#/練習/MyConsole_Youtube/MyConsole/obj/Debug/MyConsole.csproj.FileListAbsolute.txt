@@ -1,0 +1,7 @@
+H:\我的雲端硬碟\Exercise\C#\MyConsole\MyConsole\obj\Debug\MyConsole.csproj.AssemblyReference.cache
+H:\我的雲端硬碟\Exercise\C#\MyConsole\MyConsole\obj\Debug\MyConsole.csproj.CoreCompileInputs.cache
+H:\我的雲端硬碟\Exercise\C#\MyConsole\MyConsole\bin\Debug\MyConsole.exe.config
+H:\我的雲端硬碟\Exercise\C#\MyConsole\MyConsole\bin\Debug\MyConsole.exe
+H:\我的雲端硬碟\Exercise\C#\MyConsole\MyConsole\bin\Debug\MyConsole.pdb
+H:\我的雲端硬碟\Exercise\C#\MyConsole\MyConsole\obj\Debug\MyConsole.exe
+H:\我的雲端硬碟\Exercise\C#\MyConsole\MyConsole\obj\Debug\MyConsole.pdb

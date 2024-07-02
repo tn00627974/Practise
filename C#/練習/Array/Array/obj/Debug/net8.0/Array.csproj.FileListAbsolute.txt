@@ -1,0 +1,14 @@
+C:\Users\Ulysses\source\repos\Array\Array\bin\Debug\net8.0\Array.exe
+C:\Users\Ulysses\source\repos\Array\Array\bin\Debug\net8.0\Array.deps.json
+C:\Users\Ulysses\source\repos\Array\Array\bin\Debug\net8.0\Array.runtimeconfig.json
+C:\Users\Ulysses\source\repos\Array\Array\bin\Debug\net8.0\Array.dll
+C:\Users\Ulysses\source\repos\Array\Array\bin\Debug\net8.0\Array.pdb
+C:\Users\Ulysses\source\repos\Array\Array\obj\Debug\net8.0\Array.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ulysses\source\repos\Array\Array\obj\Debug\net8.0\Array.AssemblyInfoInputs.cache
+C:\Users\Ulysses\source\repos\Array\Array\obj\Debug\net8.0\Array.AssemblyInfo.cs
+C:\Users\Ulysses\source\repos\Array\Array\obj\Debug\net8.0\Array.csproj.CoreCompileInputs.cache
+C:\Users\Ulysses\source\repos\Array\Array\obj\Debug\net8.0\Array.dll
+C:\Users\Ulysses\source\repos\Array\Array\obj\Debug\net8.0\refint\Array.dll
+C:\Users\Ulysses\source\repos\Array\Array\obj\Debug\net8.0\Array.pdb
+C:\Users\Ulysses\source\repos\Array\Array\obj\Debug\net8.0\Array.genruntimeconfig.cache
+C:\Users\Ulysses\source\repos\Array\Array\obj\Debug\net8.0\ref\Array.dll
